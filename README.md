@@ -1,4 +1,5 @@
-pub   rsa4096 2024-08-12 [SCE] [caduca: 2026-07-31]
-      3F40685BF32F62787A81A9ACF194980C94A636F3
-uid        [desconocida] CERT.ar <reportes@cert.ar>
-
+pub   rsa4096/480CB00FE028F401 2026-07-31 [CG] [caduca: 2028-12-31]
+      FF31B06DE9A026F48AA604A9480CB00FE028F401
+uid              [  absoluta ] CERT.ar <reportes@cert.ar>
+sub   rsa4096/90A0F10D9693EA81 2026-07-31 [E] [caduca: 2028-12-31]
+sub   rsa4096/E62FB4C65FA1AB2B 2026-07-31 [S]
